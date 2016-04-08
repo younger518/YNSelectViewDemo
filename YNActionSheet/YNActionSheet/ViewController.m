@@ -38,6 +38,7 @@
         [items addItemWithObject:obj3];
         
     } selBlock:^(NSInteger index,YNSelectViewObject *objec) {
+        ///响应点击事件
         UIAlertController *alert = [UIAlertController alertControllerWithTitle:objec.viewTitle message:nil preferredStyle:UIAlertControllerStyleAlert];
         
         [self presentViewController:alert animated:YES completion:^{
