@@ -40,7 +40,8 @@
 }
 -(void)setupSubViews{
     UIView *tapView = [[UIView alloc]init];
-    tapView.backgroundColor = [UIColor clearColor];
+    tapView.backgroundColor = [UIColor lightGrayColor];
+    tapView.alpha = 0.2;
     UITapGestureRecognizer *tapG = [[UITapGestureRecognizer alloc]initWithTarget:self action:@selector(tapViewtouched:)];
     [tapView addGestureRecognizer:tapG];
     tapView.frame = self.bounds;
