@@ -9,6 +9,8 @@
 #import <UIKit/UIKit.h>
 
 #import "YNSelectItems.h"
+
+///block定义
 typedef void(^addItemBlock)(YNSelectItems *items);
 typedef void(^selectedBlock)(NSInteger index,YNSelectViewObject *selObjec);
 
