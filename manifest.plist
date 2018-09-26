@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>ipa包URL（必填）</string>
+					<string>http://hc1-test.lifit.com.cn/hc/file/HC_Test.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
