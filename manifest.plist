@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://47.105.115.190:8181/HelloWord/appYhd/APP1/HC_Test.ipa</string>
+					<string>http://47.105.115.190:8181/HelloWord/appYhd/APP1/Phoenix_enterprise_resigned.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.inventec.easyDoctor</string>
+				<string>com.aomen</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>testName</string>
+				<string>aomen</string>
 			</dict>
 		</dict>
 	</array>
